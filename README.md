@@ -6,7 +6,7 @@ Shows the box arts with titles of a list of movies and opens a trailer from yout
 2. Install modules `webbrowser`, `os`, `re`
 3. Run
 ```
-$ python entertainment.py
+$ python entertainment_center.py
 ```
 
 ## Built with
