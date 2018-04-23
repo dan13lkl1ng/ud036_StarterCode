@@ -1,4 +1,4 @@
-# ud036_StarterCode
+# Movie Trailer Website
 Shows the box arts with titles of a list of movies and opens a trailer from youtube when clicked.
 
 ## Getting started
